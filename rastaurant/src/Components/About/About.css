@@ -1,5 +1,13 @@
 
 .about {
-    padding: 4rem 2rem;
-    text-align: center;
+padding: 6rem 2rem;
+background: var(--light);
+}
+
+
+.about-content {
+max-width: 700px;
+margin: auto;
+text-align: center;
+line-height: 1.8;
 }

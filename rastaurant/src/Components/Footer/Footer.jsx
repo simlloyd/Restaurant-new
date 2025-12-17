@@ -5,8 +5,9 @@ const Footer = () => {
     return (
         <>
         <footer className="footer">
-        <p>© 2025 WarmBite Restaurant</p>
+        <p>© 2025 WarmBite Restaurant • All Rights Reserved</p>
         </footer>
+
         </>
     )
 };

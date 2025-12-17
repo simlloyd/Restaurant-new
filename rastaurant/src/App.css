@@ -1,10 +1,26 @@
+:root {
+--primary: #C75B39; /* Warm Orange */
+--dark: #2F2F2F; /* Charcoal */
+--light: #F4E1D2; /* Cream */
+}
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body {
+font-family: "Poppins", sans-serif;
+}
+
 .App {
   text-align: center;
 }
 .App {
-font-family: "Poppins", sans-serif;
-background-color: #F4E1D2;
-color: #2F2F2F;
+background: var(--light);
+color: var(--dark);
 }
 
 .App-logo {

@@ -1,0 +1,25 @@
+.menu {
+padding: 4rem 2rem;
+background: #fff;
+}
+
+
+.menu-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+gap: 1.5rem;
+}
+
+
+.menu-card {
+background: #F4E1D2;
+padding: 1.5rem;
+border-radius: 10px;
+text-align: center;
+}
+
+
+.menu-card span {
+font-weight: bold;
+color: #C75B39;
+}

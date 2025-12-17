@@ -1,0 +1,26 @@
+.hero {
+height: 90vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+padding: 2rem;
+}
+
+
+.hero h2 {
+font-size: 3rem;
+color: #C75B39;
+}
+
+
+.btn {
+margin-top: 1.5rem;
+padding: 0.8rem 1.8rem;
+background: #C75B39;
+border: none;
+color: #fff;
+cursor: pointer;
+border-radius: 5px;
+}
